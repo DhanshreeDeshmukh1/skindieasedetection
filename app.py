@@ -1,4 +1,12 @@
+import streamlit as st
+import tensorflow as tf
 
+# Check TensorFlow version
+try:
+    st.write(f"TensorFlow version: {tf.__version__}")
+except Exception as e:
+    st.write(f"Error: {str(e)}")
+    
 import streamlit as st
 from tensorflow.keras.models import load_model
 from tensorflow.keras.applications.xception import preprocess_input
