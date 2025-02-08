@@ -54,7 +54,7 @@ remedies = {
         "Use a humidifier to keep air moist.",
         "Apply cool compresses to soothe itching."
     ],
-    "Ringworm": [
+    "Tinea Ringworm": [
         "Use antifungal creams or powders as prescribed.",
         "Keep the affected area clean and dry.",
         "Avoid sharing towels, clothes, or personal items.",
