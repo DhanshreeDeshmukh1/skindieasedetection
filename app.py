@@ -39,43 +39,43 @@ class_labels = {v: k for k, v in class_indices.items()}
 # Remedies for skin diseases
 remedies = {
     "Psoriasis": [
-        "Moisturize: Apply a moisturizer daily, especially after washing your hands or bathing.",
-        "Take warm baths with colloidal oatmeal or Epsom salts. Avoid long or hot baths.",
-        "Avoid triggers like alcohol, smoking, and too much sun.",
-        "Reduce stress with yoga or meditation.",
-        "Use natural sunlight in controlled amounts.",
-        "Try fragrance-free products labeled 'for sensitive skin'."
+        "Application of emollients over the rashes is helpful",
+        "Do not take steroid tablets as they can worsen psoriasis",
+        "Quit smoking and alcoholism as they trigger psoriasis",
+        "Reduce sun exposure",
+        "Reduction of body weight helps in reducing flare-ups",
+        "Use natural sunlight in controlled amounts."
     ],
     "Eczema": [
-        "Apply a thick moisturizer immediately after bathing.",
-        "Use mild, fragrance-free soaps and detergents.",
-        "Avoid scratching the affected area.",
+        "Proper moisturizer application will prevent eczema",
+        "Do not apply any irritant over skin rashes",
+        "Clean the eczematous rashes with saline",
+        "Maintain cleanliness",
         "Wear soft, breathable fabrics like cotton.",
-        "Use a humidifier to keep air moist.",
-        "Apply cool compresses to soothe itching."
+        "Use mild, fragrance-free soaps and detergents."
     ],
     "Tinea Ringworm": [
-        "Use antifungal creams or powders as prescribed.",
-        "Keep the affected area clean and dry.",
-        "Avoid sharing towels, clothes, or personal items.",
-        "Wash clothing and bedding in hot water.",
-        "Avoid excessive sweating in affected areas.",
-        "Wear loose-fitting clothing."
+        "Wear loose garments",
+        "Do not wear damp clothes",
+        "Do not wear sweaty clothes",
+        "If anybody at home has ringworm, wash their clothes separately",
+        "Do not apply any steroid-containing creams over ringworm",
+        "Do not apply oil or soaps or any irritants over the ringworm rashes"
     ],
     "Melanoma": [
-        "Avoid direct sun exposure between 10 AM and 4 PM.",
-        "Use sunscreen with SPF 30 or higher.",
-        "Wear protective clothing, hats, and sunglasses.",
+        "Immediate treatment is mandatory",
+        "Proper sunscreen application is essential",
+        "Do not do home remedies. It needs surgical management and chemotherapsuy",
+        "Whenever a mole increases in size drastically over a short period of time, conlt your dermatologist as early as possible"
         "Check your skin regularly for changes in moles.",
-        "See a dermatologist if you notice any irregular spots.",
         "Avoid tanning beds and UV lamps."
     ],
     "Melanocytic Nevi": [
-        "Monitor moles for any changes in size, color, or shape.",
-        "Use sunscreen to protect against UV damage.",
-        "Avoid picking at or scratching moles.",
-        "Consult a dermatologist if a mole becomes painful or itchy.",
-        "Wear sun-protective clothing.",
+        "Application of emollients over the rashes is helpful",
+        "Do not take steroid tablets as they can worsen psoriasis",
+        "Quit smoking and alcoholism as they trigger psoriasis",
+        "Reduce sun exposure",
+        "Reduction of body weight helps in reducing flare-ups",
         "Keep an eye on family history of skin conditions."
     ]
 }
